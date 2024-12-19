@@ -1,0 +1,238 @@
+
+[
+    {
+      "id": "1",
+      "brand_name": "TechGear",
+      "rating": 4.5,
+      "description": "Your one-stop shop for the latest gadgets and accessories.",
+      "brand_logo": "https://i.ibb.co.com/WtDPZQR/01.png",
+      "coupons": [
+        {
+          "coupon-code": "TECH20",
+          "description": "20% off on all tech gadgets.",
+          "expiry-date": "2024-12-31",
+          "condition": "Minimum purchase of $50.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "FREEDEL",
+          "description": "Free delivery on orders over $100.",
+          "expiry-date": "2024-12-15",
+          "condition": "Not applicable on sale items.",
+          "cupon_type": "Free Shipping"
+        }
+      ],
+      "shop-Link": "https://www.techgear.com",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "id": "2",
+      "brand_name": "FashionWave",
+      "rating": 4.7,
+      "description": "Trendy clothing and accessories for all.",
+      "brand_logo": "https://i.ibb.co.com/sKxXyVt/02.jpg",
+      "coupons": [
+        {
+          "coupon-code": "STYLE15",
+          "description": "15% off on new arrivals.",
+          "expiry-date": "2024-11-30",
+          "condition": "Not valid with other offers.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "BOGOF",
+          "description": "Buy one get one free on selected items.",
+          "expiry-date": "2024-11-25",
+          "condition": "Applicable on selected categories only.",
+          "cupon_type": "Buy One Get One"
+        }
+      ],
+      "shop-Link": "https://www.fashionwave.com",
+      "category": "Apparel",
+      "isSaleOn": false
+    },
+    {
+      "id": "3",
+      "brand_name": "HomeEssentials",
+      "rating": 4.3,
+      "description": "All you need for your perfect home.",
+      "brand_logo": "https://i.ibb.co.com/V3R9Fj5/03.png",
+      "coupons": [
+        {
+          "coupon-code": "HOME10",
+          "description": "10% off on kitchen appliances.",
+          "expiry-date": "2024-12-10",
+          "condition": "Limited to 2 items per order.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "FURNITURE50",
+          "description": "$50 off on furniture purchases over $500.",
+          "expiry-date": "2024-12-20",
+          "condition": "Cannot combine with other coupons.",
+          "cupon_type": "Flat Discount"
+        }
+      ],
+      "shop-Link": "https://www.homeessentials.com",
+      "category": "Home & Living",
+      "isSaleOn": true
+    },
+    {
+      "id": "4",
+      "brand_name": "GourmetBites",
+      "rating": 4.6,
+      "description": "Delicious gourmet food at your fingertips.",
+      "brand_logo": "https://i.ibb.co.com/jHCwPBP/04.jpg",
+      "coupons": [
+        {
+          "coupon-code": "FOODIE25",
+          "description": "25% off on your first order.",
+          "expiry-date": "2024-12-05",
+          "condition": "New customers only.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "MEALDEAL",
+          "description": "20% off meal packages over $50.",
+          "expiry-date": "2024-12-15",
+          "condition": "Not applicable on beverages.",
+          "cupon_type": "Percentage"
+        }
+      ],
+      "shop-Link": "https://www.gourmetbites.com",
+      "category": "Food & Beverage",
+      "isSaleOn": false
+    },
+    {
+      "id": "5",
+      "brand_name": "BookNest",
+      "rating": 4.8,
+      "description": "Discover your next great read at BookNest.",
+      "brand_logo": "https://i.ibb.co.com/BytF330/05.jpg",
+      "coupons": [
+        {
+          "coupon-code": "READMORE",
+          "description": "10% off on all books.",
+          "expiry-date": "2024-12-25",
+          "condition": "No minimum purchase required.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "EBOOK50",
+          "description": "50% off on e-books.",
+          "expiry-date": "2024-12-30",
+          "condition": "Valid for e-books only.",
+          "cupon_type": "Flat Discount"
+        }
+      ],
+      "shop-Link": "https://www.booknest.com",
+      "category": "Books",
+      "isSaleOn": true
+    },
+    {
+      "id": "6",
+      "brand_name": "PetParadise",
+      "rating": 4.4,
+      "description": "Everything your pet needs in one place.",
+      "brand_logo": "https://i.ibb.co.com/wNkkQfh/06.png",
+      "coupons": [
+        {
+          "coupon-code": "PETCARE15",
+          "description": "15% off on pet grooming products.",
+          "expiry-date": "2024-11-20",
+          "condition": "Minimum order $30.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "TREATS10",
+          "description": "Flat $10 off on pet treats.",
+          "expiry-date": "2024-11-28",
+          "condition": "Limited to first 500 users.",
+          "cupon_type": "Flat Discount"
+        }
+      ],
+      "shop-Link": "https://www.petparadise.com",
+      "category": "Pets",
+      "isSaleOn": true
+    },
+    {
+      "id": "7",
+      "brand_name": "FitnessPro",
+      "rating": 4.2,
+      "description": "Gear up for your fitness journey.",
+      "brand_logo": "https://i.ibb.co.com/nPt5Ywb/07.jpg",
+      "coupons": [
+        {
+          "coupon-code": "FIT10",
+          "description": "10% off on fitness gear.",
+          "expiry-date": "2024-12-15",
+          "condition": "Minimum purchase $20.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "GYMPASS",
+          "description": "Free 1-month gym pass.",
+          "expiry-date": "2024-12-30",
+          "condition": "For purchases over $100.",
+          "cupon_type": "Freebie"
+        }
+      ],
+      "shop-Link": "https://www.fitnesspro.com",
+      "category": "Fitness",
+      "isSaleOn": false
+    },
+    {
+      "id": "8",
+      "brand_name": "EcoWorld",
+      "rating": 4.5,
+      "description": "Sustainable and eco-friendly products.",
+      "brand_logo": "https://i.ibb.co.com/N1xcrJX/08.jpg",
+      "coupons": [
+        {
+          "coupon-code": "ECOFRIEND",
+          "description": "15% off on eco-friendly items.",
+          "expiry-date": "2024-12-31",
+          "condition": "Minimum purchase $50.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "GREENER10",
+          "description": "$10 off on biodegradable products.",
+          "expiry-date": "2024-12-20",
+          "condition": "Not valid on clearance items.",
+          "cupon_type": "Flat Discount"
+        }
+      ],
+      "shop-Link": "https://www.ecoworld.com",
+      "category": "Sustainability",
+      "isSaleOn": true
+    },
+    {
+      "id": "9",
+      "brand_name": "AutoCare",
+      "rating": 4.3,
+      "description": "Premium car care and accessories.",
+      "brand_logo": "https://i.ibb.co.com/TH8Tmqj/09.jpg",
+      "coupons": [
+        {
+          "coupon-code": "AUTO15",
+          "description": "15% off on car accessories.",
+          "expiry-date": "2024-12-25",
+          "condition": "Not applicable on gift cards.",
+          "cupon_type": "Percentage"
+        },
+        {
+          "coupon-code": "SERVICEDISCOUNT",
+          "description": "$20 off on car servicing.",
+          "expiry-date": "2024-11-30",
+          "condition": "Minimum service cost $100.",
+          "cupon_type": "Flat Discount"
+        }
+      ],
+      "shop-Link": "https://www.autocare.com",
+      "category": "Automobile",
+      "isSaleOn": true
+    }
+  ]
+  
